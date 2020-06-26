@@ -21,6 +21,6 @@ Please fork this repository and then issue Pull Requests
 
 ### Copyright
 
-2020 Git.Training.
+2020 Git.Training.All rights reserved
 
 
